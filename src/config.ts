@@ -12,6 +12,7 @@ export const siteConfig = {
   aboutMe:
     "Welcome to Jisygmar, your premier partner in enhancing customer interactions! Our mission is to revolutionize the way businesses engage with their customers by harnessing the power of artificial intelligence. Derived from the Korean term 지식말 (meaning 'knowledgeable words'), Jisygmar embodies our commitment to providing insightful and responsive customer service that goes beyond mere automation. With Jisygmar, you can offer 24/7 customer engagement that ensures timely and relevant communication. Our advanced AI technology enables us to deliver almost human-like responses, fostering a more personal connection with your audience. Whether it’s answering inquiries, resolving issues, or guiding users through processes, Jisygmar is here to enhance your customer experience smoothly and effectively. Join us on this journey to elevate your customer service and create unforgettable interactions that resonate with your audience. At Jisygmar, we don’t just respond; we engage, connect, and grow together!",
   skills: ["TikTok", "Telegram", "Whatapp", "Lazada (soon)", "Shoppee (soon)", "Coupang (soon)"],
+  /*
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
@@ -88,5 +89,5 @@ export const siteConfig = {
         "Specialized in React and Node.js",
       ],
     },
-  ],
+  ], */
 };
