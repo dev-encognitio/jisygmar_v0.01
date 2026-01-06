@@ -8,4 +8,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: 'https://dev-encognitio.github.io',
+  base: '/jsygmar_v0.01',
 });
