@@ -7,6 +7,7 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: 'https://dev-encognitio.github.io',
-  base: '/jisygmar_v0.01',
+  site: 'https://jisygmar.encognitio.com/',
+  //site: 'https://dev-encognitio.github.io',
+  //base: '/jisygmar_v0.01',
 });
